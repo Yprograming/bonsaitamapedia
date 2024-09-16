@@ -1,7 +1,10 @@
 html{
     background-color: rgb(218, 255, 217);
-    font-famliy: serif,gerogia;
 }
 strong{
     color: red;
 }
+body{
+    font-famliy: sans-serif;
+}
+
