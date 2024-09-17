@@ -4,4 +4,6 @@ html{
 strong{
     color: red;
 }
-
+body{
+    font-size: 18px;
+}
